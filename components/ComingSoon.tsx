@@ -30,6 +30,7 @@ function ComingSoon() {
         src="/images/coming-soon.gif"
         height="450"
         width="700"
+        alt=""
       />
     </div>
   );

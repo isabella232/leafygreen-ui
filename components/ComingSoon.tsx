@@ -3,6 +3,7 @@ import { css } from 'emotion';
 import { uiColors } from '@leafygreen-ui/palette';
 import { Subtitle } from '@leafygreen-ui/typography';
 import { spacing } from '@leafygreen-ui/tokens';
+import { CDN } from 'utils/routes';
 
 const containerStyle = css`
   width: 100%;
@@ -27,10 +28,11 @@ function ComingSoon() {
         Coming soon!
       </Subtitle>
       <img
-        src="/images/coming-soon.gif"
+        src={`${CDN}/images/guidelines/coming-soon.gif`}
         height="450"
         width="700"
         alt=""
+        aria-hidden
       />
     </div>
   );

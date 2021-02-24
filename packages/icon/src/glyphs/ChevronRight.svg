@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g id="ChevronRight-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M3.86396103,3.51396103 L10.863961,3.51396103 L10.863961,5.51396103 L3.86396103,5.51396103 L3.86396103,12.513961 L1.86396103,12.513961 L1.86396103,3.51396103 L3.86396103,3.51396103 Z" id="Combined-Shape" fill="#000000" transform="translate(6.363961, 8.013961) rotate(135.000000) translate(-6.363961, -8.013961) "></path>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1.1" viewBox="0 0 16 16"><g id="ChevronRight-Copy" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><path id="Combined-Shape" fill="#000" d="M3.86396103,3.51396103 L10.863961,3.51396103 L10.863961,5.51396103 L3.86396103,5.51396103 L3.86396103,12.513961 L1.86396103,12.513961 L1.86396103,3.51396103 L3.86396103,3.51396103 Z" transform="translate(6.363961, 8.013961) rotate(135.000000) translate(-6.363961, -8.013961)"/></g></svg>
